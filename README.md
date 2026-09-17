@@ -44,7 +44,7 @@ Users can select:
 
 🚀 Live Project
 
-"https://nightstay.netlify.app" (https://nightstay.netlify.app)
+[LIVE DEMO](https://nightstay.netlify.app)
 
 ---
 

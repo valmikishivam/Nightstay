@@ -1,16 +1,51 @@
-# React + Vite
+🏨 Nightstay
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern room booking website built with React, Vite, and Tailwind CSS.
 
-Currently, two official plugins are available:
+🌐 Live Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+"Visit Nightstay" (https://nightstay.netlify.app)
 
-## React Compiler
+✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🛏️ Browse rooms
+- 📅 Dummy room booking
+   🔎 Select Check-in and Check-out dates
+   🏠 Select room
+   👥 Select number of persons
+- 📋 Single room details page
+- 📱 Responsive design
 
-## Expanding the ESLint configuration
+📄 Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Home Page — Landing page with room highlights
+- Rooms Page — Browse available rooms
+- Contact Page — Contact information
+- About Page — Information about Nightstay
+- Room Details Page — Detailed information about a selected room
+
+🛎️ Booking
+
+The booking feature is currently a dummy booking flow for demonstration purposes.
+
+Users can select:
+
+- Check-in date
+- Check-out date
+- Room
+- Number of persons
+
+🛠️ Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+
+🚀 Live Project
+
+"https://nightstay.netlify.app" (https://nightstay.netlify.app)
+
+---
+
+Made with ❤️ using React, Vite & Tailwind CSS.
